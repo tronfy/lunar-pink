@@ -1,42 +1,42 @@
 {
-    "name": "lunar-pink",
-    "displayName": "Lunar Pink Theme",
-    "description": "A vibrantly colored theme for VSCode",
-    "version": "1.0.0",
-    "publisher": "nicolasdschmidt",
-    "author": {
-        "name": "Nícolas D. Schmidt",
-        "email": "nicolasdschmidt@protonmail.com",
-        "url": "https://github.com/nicolasdschmidt"
-    },
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "galleryBanner": {
+	"name": "lunar-pink",
+	"displayName": "Lunar Pink Theme",
+	"description": "A vibrantly colored theme for VSCode",
+	"version": "1.0.0",
+	"publisher": "nicolasdschmidt",
+	"author": {
+		"name": "Nícolas D. Schmidt",
+		"email": "nicolasdschmidt@protonmail.com",
+		"url": "https://github.com/nicolasdschmidt"
+	},
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"galleryBanner": {
 		"color": "#131313",
 		"theme": "dark"
 	},
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "lunar",
-        "pink",
-		"theme",
-        "dark"
+	"categories": [
+		"Themes"
 	],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Lunar Pink",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Lunar Pink.json"
-            }
-        ]
-    },
-    "homepage": "https://github.com/nicolasdschmidt/lunar-pink-vscode",
-    "repository": {
+	"keywords": [
+		"lunar",
+		"pink",
+		"theme",
+		"dark"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lunar Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Lunar Pink.json"
+			}
+		]
+	},
+	"homepage": "https://github.com/nicolasdschmidt/lunar-pink-vscode",
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/nicolasdschmidt/lunar-pink-vscode"
 	}
