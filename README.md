@@ -10,9 +10,9 @@
 
 <img src="https://raw.githubusercontent.com/nicolasdschmidt/lunar-pink/main/.github/demo/lunar_pink.png">
 
-## Lunar Pink Sattelite
+## Lunar Pink Satellite
 
-<img src="https://raw.githubusercontent.com/nicolasdschmidt/lunar-pink/main/.github/demo/lunar_pink_sattelite.png">
+<img src="https://raw.githubusercontent.com/nicolasdschmidt/lunar-pink/main/.github/demo/lunar_pink_satellite.png">
 
 ## Logo
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.3] - 2021-06-25
+
+- Fix typo in README
+
 ## [1.0.2] - 2021-06-25
 
 - Fix README images (the correct way)
