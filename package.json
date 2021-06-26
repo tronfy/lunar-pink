@@ -32,6 +32,11 @@
 				"label": "Lunar Pink",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Lunar Pink.json"
+			},
+			{
+				"label": "Lunar Pink Satellite",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Lunar Pink Satellite.json"
 			}
 		]
 	},
