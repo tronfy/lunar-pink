@@ -1,4 +1,4 @@
-<p align="center"> <img height="150" src="https://raw.githubusercontent.com/nicolasdschmidt/lunar-pink/main/icon.png"> </p>
+<p align="center"> <img height="150" src="https://raw.githubusercontent.com/tronfy/lunar-pink/main/icon.png"> </p>
 
 <h1 align="center"> Lunar Pink </h1>
 
@@ -8,12 +8,12 @@
 
 ## Lunar Pink
 
-<img src="https://raw.githubusercontent.com/nicolasdschmidt/lunar-pink/main/.github/demo/lunar_pink.png">
+<img src="https://raw.githubusercontent.com/tronfy/lunar-pink/main/.github/demo/lunar_pink.png">
 
 ## Lunar Pink Satellite
 
-<img src="https://raw.githubusercontent.com/nicolasdschmidt/lunar-pink/main/.github/demo/lunar_pink_satellite.png">
+<img src="https://raw.githubusercontent.com/tronfy/lunar-pink/main/.github/demo/lunar_pink_satellite.png">
 
 ## Logo
 
-<img height="13" src="https://raw.githubusercontent.com/nicolasdschmidt/lunar-pink/main/icon.png"> "[Moon orbit icon](https://game-icons.net/1x1/delapouite/moon-orbit.html)" by [Delapouite](https://delapouite.com/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) / Recolored
+<img height="13" src="https://raw.githubusercontent.com/tronfy/lunar-pink/main/icon.png"> "[Moon orbit icon](https://game-icons.net/1x1/delapouite/moon-orbit.html)" by [Delapouite](https://delapouite.com/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) / Recolored

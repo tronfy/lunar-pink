@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.1.1] - 2021-06-30
+
+- Fix package and README links
+
 ## [1.1.0] - 2021-06-27
 
 - Improve dark text visibility in terminal
