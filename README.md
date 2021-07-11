@@ -6,6 +6,11 @@
  A vibrantly colored theme for VSCode
 </strong></p>
 
+<p align="center">
+    <a href="https://bit.ly/lunar-pink"><img src="https://img.shields.io/visual-studio-marketplace/i/nicolasdschmidt.lunar-pink?color=%23e621af&style=flat-square" alt="Installs"></a>&nbsp;
+    <a href="https://bit.ly/lunar-pink"><img src="https://img.shields.io/visual-studio-marketplace/v/nicolasdschmidt.lunar-pink?color=%23e621af&style=flat-square" alt="Version"></a>&nbsp;
+</p>
+
 ## Lunar Pink
 
 <img src="https://raw.githubusercontent.com/tronfy/lunar-pink/main/.github/demo/lunar_pink.png">
