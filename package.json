@@ -31,12 +31,12 @@
 			{
 				"label": "Lunar Pink",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Lunar Pink.json"
+				"path": "./themes/LunarPink.json"
 			},
 			{
 				"label": "Lunar Pink Satellite",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Lunar Pink Satellite.json"
+				"path": "./themes/LunarPinkSatellite.json"
 			}
 		]
 	},
