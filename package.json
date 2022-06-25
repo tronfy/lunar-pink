@@ -10,7 +10,7 @@
 		"url": "https://github.com/tronfy"
 	},
 	"engines": {
-		"vscode": "^1.68.1"
+		"vscode": "^1.57.0"
 	},
 	"galleryBanner": {
 		"color": "#131313",
