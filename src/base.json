@@ -1831,7 +1831,7 @@
 		"editorWhitespace.foreground": "LUNAR_WHITE%55",
 		"editor.selectionHighlightBackground": "LUNAR_WHITE%22",
 		"editor.selectionHighlightBorder": "LUNAR_TRANSPARENT",
-		"editor.findMatchBackground": "LUNAR_WHITE%22",
+		"editor.findMatchBackground": "LUNAR_WHITE%55",
 		"editor.findMatchBorder": "LUNAR_TRANSPARENT",
 		"editor.findMatchHighlightBackground": "LUNAR_PINK%66",
 		"editor.findMatchHighlightBorder": "LUNAR_TRANSPARENT",
