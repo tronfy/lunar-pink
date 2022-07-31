@@ -2,7 +2,7 @@
 	"name": "lunar-pink",
 	"displayName": "Lunar Pink Theme",
 	"description": "A vibrantly colored theme for VSCode",
-	"version": "1.2.1",
+	"version": "1.3.0",
 	"publisher": "nicolasdschmidt",
 	"author": {
 		"name": "Nícolas D. Schmidt",
@@ -44,5 +44,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/tronfy/lunar-pink"
+	},
+	"devDependencies": {
+		"vsce": "^2.10.0"
 	}
 }

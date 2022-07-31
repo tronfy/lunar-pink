@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0] - 2022-07-30
+- Increase find match opacity
+- Fix inline badge colors
+
+## [1.2.1] - 2022-06-25
+
+- Added bracket highlighting support
+- Build system
+
 ### [1.1.1] - 2021-06-30
 
 - Fix package and README links

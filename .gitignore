@@ -57,3 +57,5 @@ $RECYCLE.BIN/
 
 # packaged extensions
 *.vsix
+
+node_modules
