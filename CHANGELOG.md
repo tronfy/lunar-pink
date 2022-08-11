@@ -1,6 +1,10 @@
 # Changelog
 
 ## [1.3.0] - 2022-07-30
+- Brighter yellows
+- Update syntax highlighting order
+
+## [1.3.0] - 2022-07-30
 - Increase find match opacity
 - Fix inline badge colors
 

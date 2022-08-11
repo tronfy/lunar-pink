@@ -4,8 +4,8 @@ const palette = {
 	"PINK":             "#e621af",
 	"PINK_DARK":        "#a7097a",
 
-	"YELLOW":           "#f0ca00",
-	"YELLOW_DARK":      "#e6a737",
+	"YELLOW":           "#ffd900",
+	"YELLOW_DARK":      "#f0b800",
 
 	"CYAN_LIGHT":       "#79e0e2",
 	"CYAN":             "#09e4e6",
